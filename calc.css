@@ -1,0 +1,11 @@
+.Calculator {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.keys {
+    margin: auto;
+    margin-top: 10px;
+    display: flex;
+}
